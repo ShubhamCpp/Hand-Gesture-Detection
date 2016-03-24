@@ -30,4 +30,6 @@ We now find the convex points and the defect points. The convex points are gener
 
 ### e.	Find the Area under the Contour and the Points where the Hand’s Contour is Detected:-
 
-We need to find the Points where the Hand is Recognized. This will help us to detect the swipe of the hand and hence make the corresponding transitions, making the Core of the Game.
+We need to find the Points where the Hand is Recognized. This will help us to detect the swipe of the hand and hence detect the corresponding actions/movements.
+
+’m attaching some Images showing the Program at work.
